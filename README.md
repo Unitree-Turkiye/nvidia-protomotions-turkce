@@ -403,6 +403,7 @@ Robotlar.org, Unitree Robotics'in Türkiye resmi distribütörüdür. Aşağıda
 ## 📖 Türkçe Rehberler
 
 - [NVIDIA insansı hareket ailesi ve Unitree G1 (merkez rehber)](https://www.robotlar.org/tr/rehber/nvidia-insansi-hareket-ekosistemi-unitree-g1-rehberi)
+- [Unitree G1'de hareket taklidi: BeyondMimic'ten SONIC'e hareket izleme yöntemleri](https://www.robotlar.org/tr/rehber/unitree-g1-hareket-taklidi-motion-tracking-rehberi) · [Türkçe araştırma deposu: unitree-g1-hareket-taklidi-arastirma](https://github.com/Unitree-Turkiye/unitree-g1-hareket-taklidi-arastirma)
 - [NVIDIA ProtoMotions insansı simülasyon rehberi](https://www.robotlar.org/tr/rehber/nvidia-protomotions-insansi-simulasyon-rehberi)
 - [GEAR SONIC ile Unitree G1 tüm gövde kontrolü](https://www.robotlar.org/tr/rehber/gear-sonic-unitree-g1-tum-govde-kontrol-rehberi)
 - [SOMA Retargeter ile Unitree G1 hareket aktarımı](https://www.robotlar.org/tr/rehber/soma-retargeter-unitree-g1-hareket-aktarimi-rehberi)
