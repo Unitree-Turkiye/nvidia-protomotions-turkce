@@ -1,0 +1,20 @@
+Bu depo NVlabs/ProtoMotions belgelerinin Türkçe çevirisini içerir.
+This repository contains a Turkish translation of the NVlabs/ProtoMotions documentation.
+
+Kaynak / Source: https://github.com/NVlabs/ProtoMotions (main, commit 13de0cc, 2026-11-09)
+Copyright (c) 2025-2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+- Belge metni ve kaynak kod / Documentation text and source code: Apache License 2.0
+  https://github.com/NVlabs/ProtoMotions/blob/main/LICENSE.md
+  https://www.apache.org/licenses/LICENSE-2.0
+  Değişiklik / Changes: Türkçeye çevrildi, Türkiye bağlantıları eklendi
+  (translated into Turkish, Turkey-specific links added).
+  Çeviri / Translation: Copyright (c) 2026 EP Robot Teknoloji (Robotlar.org), Apache-2.0.
+- Önceden eğitilmiş modeller / Pretrained models: NVIDIA Open Model License
+  https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-open-model-license/
+  https://github.com/NVlabs/ProtoMotions/blob/main/legal/MODEL-LICENSING.md
+- Üçüncü taraf yazılım ve varlıklar / Third-party software and assets:
+  https://github.com/NVlabs/ProtoMotions/tree/main/legal
+
+Bu depoda kaynak kod, model, hareket verisi ya da medya dosyası bulunmaz; görseller orijinal depodan gösterilir.
+This repository holds no source code, models, motion data or media files; images are served from the original repository.
